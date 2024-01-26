@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "90321007074",
+    "project_id": "dovlat-fdafd",
+    "storage_bucket": "dovlat-fdafd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:90321007074:android:bb91ad72d67e3e36ca09bb",
+        "android_client_info": {
+          "package_name": "com.example.contacts_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBirfhGpR0JelhJZYfRWkFv1w_lXEwvfMo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
